@@ -1,0 +1,238 @@
+[1] "Necora puber"
+
+Model fitted: Exponential decay with lower limit at 0 (2 parms)
+
+Parameter estimates:
+
+              Estimate Std. Error t-value  p-value   
+d:(Intercept)  0.55116    0.18359  3.0021 0.004998 **
+e:(Intercept) 34.69416   26.97484  1.2862 0.207075   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error:
+
+ 0.571072 (34 degrees of freedom)
+Lack-of-fit test
+
+          ModelDf    RSS Df F value p value
+ANOVA          27  8.750                   
+DRC model      34 11.088  7  1.0307  0.4331
+[1] "Asterias rubens"
+
+Model fitted: Exponential decay with lower limit at 0 (2 parms)
+
+Parameter estimates:
+
+              Estimate Std. Error t-value   p-value    
+d:(Intercept) 618.9167    25.1769 24.5827 < 2.2e-16 ***
+e:(Intercept)  29.6771     2.9774  9.9674 1.268e-11 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error:
+
+ 73.5081 (34 degrees of freedom)
+Lack-of-fit test
+
+          ModelDf    RSS Df F value p value
+ANOVA          27  78260                   
+DRC model      34 183717  7  5.1976  0.0008
+[1] "Crepidula fornicata"
+
+Model fitted: Exponential decay with lower limit at 0 (2 parms)
+
+Parameter estimates:
+
+              Estimate Std. Error t-value   p-value    
+d:(Intercept)  3.14699    0.52369  6.0093 8.376e-07 ***
+e:(Intercept) 50.59548   20.13623  2.5127   0.01689 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error:
+
+ 1.780964 (34 degrees of freedom)
+Lack-of-fit test
+
+          ModelDf    RSS Df F value p value
+ANOVA          27  65.75                   
+DRC model      34 107.84  7  2.4693  0.0428
+[1] "Amphipholis squamata"
+
+Model fitted: Exponential decay with lower limit at 0 (2 parms)
+
+Parameter estimates:
+
+              Estimate Std. Error t-value   p-value    
+d:(Intercept)  3.13057    0.52387  5.9758 9.257e-07 ***
+e:(Intercept) 32.43662   12.96101  2.5026    0.0173 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error:
+
+ 1.584941 (34 degrees of freedom)
+Lack-of-fit test
+
+          ModelDf    RSS Df F value p value
+ANOVA          27 75.500                   
+DRC model      34 85.409  7  0.5062  0.8216
+[1] "Styela clava"
+
+Model fitted: Exponential decay with lower limit at 0 (2 parms)
+
+Parameter estimates:
+
+              Estimate Std. Error t-value p-value  
+d:(Intercept)   1.6516     0.7028  2.3501 0.02471 *
+e:(Intercept)   6.2026     6.0048  1.0329 0.30893  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error:
+
+ 0.9193063 (34 degrees of freedom)
+Lack-of-fit test
+
+          ModelDf    RSS Df F value p value
+ANOVA          27 21.750                   
+DRC model      34 28.734  7  1.2386  0.3169
+[1] "Botrylloides violaceus"
+
+Model fitted: Exponential decay with lower limit at 0 (2 parms)
+
+Parameter estimates:
+
+              Estimate Std. Error t-value   p-value    
+d:(Intercept)  3.40297    0.78597  4.3297 0.0001247 ***
+e:(Intercept) 29.69830   16.86228  1.7612 0.0871919 .  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error:
+
+ 2.298219 (34 degrees of freedom)
+Lack-of-fit test
+
+          ModelDf    RSS Df F value p value
+ANOVA          27 162.75                   
+DRC model      34 179.58  7  0.3989  0.8945
+[1] "Botryllus schlosseri"
+
+Model fitted: Exponential decay with lower limit at 0 (2 parms)
+
+Parameter estimates:
+
+              Estimate Std. Error t-value p-value
+d:(Intercept)  1.84672         NA      NA      NA
+e:(Intercept)  0.16073         NA      NA      NA
+
+Residual standard error:
+
+ 0.5687978 (34 degrees of freedom)
+Lack-of-fit test
+
+          ModelDf   RSS Df F value p value
+ANOVA          27  6.25                   
+DRC model      34 11.00  7  2.9315  0.0204
+[1] "Halichondria panicea"
+
+Model fitted: Exponential decay with lower limit at 0 (2 parms)
+
+Parameter estimates:
+
+              Estimate Std. Error t-value  p-value   
+d:(Intercept)  0.61435    0.22205  2.7667 0.009091 **
+e:(Intercept) 52.29055   40.13188  1.3030 0.201342   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error:
+
+ 0.8087653 (34 degrees of freedom)
+Lack-of-fit test
+
+          ModelDf    RSS Df F value p value
+ANOVA          27 19.000                   
+DRC model      34 22.239  7  0.6576  0.7051
+[1] "Ostrea"
+
+Model fitted: Exponential decay with lower limit at 0 (2 parms)
+
+Parameter estimates:
+
+              Estimate Std. Error t-value   p-value    
+d:(Intercept) 196.1236    10.7143 18.3049 < 2.2e-16 ***
+e:(Intercept)  21.9535     2.9952  7.3296 1.715e-08 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error:
+
+ 28.44217 (34 degrees of freedom)
+Lack-of-fit test
+
+          ModelDf   RSS Df F value p value
+ANOVA          27 25970                   
+DRC model      34 27504  7  0.2279  0.9750
+[1] "Ciona"
+
+Model fitted: Exponential decay with lower limit at 0 (2 parms)
+
+Parameter estimates:
+
+              Estimate Std. Error t-value   p-value    
+d:(Intercept)   9.6645     1.4275  6.7700 8.769e-08 ***
+e:(Intercept)  37.4314    13.1485  2.8468  0.007435 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error:
+
+ 4.500843 (34 degrees of freedom)
+Lack-of-fit test
+
+          ModelDf    RSS Df F value p value
+ANOVA          27 477.75                   
+DRC model      34 688.76  7  1.7036  0.1504
+[1] "Diplosoma"
+
+Model fitted: Exponential decay with lower limit at 0 (2 parms)
+
+Parameter estimates:
+
+              Estimate Std. Error t-value   p-value    
+d:(Intercept)   6.6308     1.0266  6.4588 2.198e-07 ***
+e:(Intercept)  21.0556     8.2210  2.5612   0.01504 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error:
+
+ 2.676594 (34 degrees of freedom)
+Lack-of-fit test
+
+          ModelDf    RSS Df F value p value
+ANOVA          27 181.75                   
+DRC model      34 243.58  7  1.3122  0.2825
+[1] "Monocorophium"
+
+Model fitted: Exponential decay with lower limit at 0 (2 parms)
+
+Parameter estimates:
+
+              Estimate Std. Error t-value   p-value    
+d:(Intercept)  11.2934     3.0786  3.6683 0.0008283 ***
+e:(Intercept)   8.7381     6.5977  1.3244 0.1941970    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error:
+
+ 4.391252 (34 degrees of freedom)
+Lack-of-fit test
+
+          ModelDf    RSS Df F value p value
+ANOVA          27 639.25                   
+DRC model      34 655.63  7  0.0988  0.9980

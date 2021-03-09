@@ -1,0 +1,16 @@
+﻿Genus,Species,Binomial,ID,FinalID,altID,Fmismatch,Rmismatch,WeightApprox
+Necora,puber,Necora puber,,Necora puber,Necora puber,0,0,150
+Ostrea,edulis,Ostrea edulis,,Ostrea edulis,Ostrea,3,12,35
+Ciona,intestinalis,Ciona intestinalis,,Ciona intestinalis,Ciona,2,1,1
+Asterias,rubens,Asterias rubens,,Asterias rubens,Asterias rubens,3,1,160
+Carcinus,maenas,Carcinus maenas,,,,,,75
+Crepidula,fornicata,Crepidula fornicata,,Crepidula fornicata,Crepidula fornicata,3,NA,20
+Amphipholis,squamata,Amphipholis squamata,AfterExperiment,Amphipholis squamata,Amphipholis squamata,1,0,1
+Mytilus,edulis,Mytilus edulis,,,,,,80
+Styela,clava,Styela clava,,Styela clava,Styela clava,4,2,10
+Semibalanus,balanoides,Semibalanus balanoides,,,,,,15
+Diplosoma,,Diplosoma spp.,,Diplosoma spp.,Diplosoma,NA,NA,2.5
+Botrylloides,violaceus,Botrylloides violaceus,,Botrylloides violaceus,Botrylloides violaceus,4,0,1.5
+Monocorophium,acherusicum,Monocorophium acherusicum,,Monocorophium insidiosum,Monocorophium,2,NA,0.01
+Botryllus,schlosseri,Botryllus schlosseri,,Botryllus schlosseri,Botryllus schlosseri,3,2,0.6
+Halichondria,panicea,Halichondria panicea,,Halichondria panicea,Halichondria panicea,0,0,10

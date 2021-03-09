@@ -1,0 +1,204 @@
+[1] "Necora puber"
+
+Formula: sample.reads ~ SSasymp(sample.time, yf, y0, log_alpha)
+
+Parameters:
+          Estimate Std. Error t value Pr(>|t|)   
+yf        -0.05149    0.25398  -0.203  0.84059   
+y0         0.54826    0.19668   2.788  0.00874 **
+log_alpha -3.70547    1.34467  -2.756  0.00946 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.5791 on 33 degrees of freedom
+
+Number of iterations to convergence: 0 
+Achieved convergence tolerance: 2.244e-06
+
+[1] "Asterias rubens"
+
+Formula: sample.reads ~ SSasymp(sample.time, yf, y0, log_alpha)
+
+Parameters:
+          Estimate Std. Error t value Pr(>|t|)    
+yf        -29.7815    27.8417   -1.07    0.293    
+y0        615.4048    25.9878   23.68   <2e-16 ***
+log_alpha  -3.4875     0.1501  -23.23   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 73.11 on 33 degrees of freedom
+
+Number of iterations to convergence: 0 
+Achieved convergence tolerance: 3.395e-06
+
+[1] "Crepidula fornicata"
+
+Formula: sample.reads ~ SSasymp(sample.time, yf, y0, log_alpha)
+
+Parameters:
+          Estimate Std. Error t value Pr(>|t|)    
+yf         -0.5856     1.2871  -0.455    0.652    
+y0          3.1228     0.5607   5.569 3.44e-06 ***
+log_alpha  -4.2116     0.8730  -4.825 3.09e-05 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.796 on 33 degrees of freedom
+
+Number of iterations to convergence: 0 
+Achieved convergence tolerance: 3.578e-06
+
+[1] "Amphipholis squamata"
+
+Formula: sample.reads ~ SSasymp(sample.time, yf, y0, log_alpha)
+
+Parameters:
+          Estimate Std. Error t value Pr(>|t|)    
+yf         -0.2387     0.6585  -0.362    0.719    
+y0          3.1172     0.5556   5.610 3.04e-06 ***
+log_alpha  -3.6095     0.6490  -5.562 3.51e-06 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.605 on 33 degrees of freedom
+
+Number of iterations to convergence: 0 
+Achieved convergence tolerance: 2.318e-06
+
+[1] "Styela clava"
+
+Formula: sample.reads ~ SSasymp(sample.time, yf, y0, log_alpha)
+
+Parameters:
+           Estimate Std. Error t value Pr(>|t|)  
+yf        -0.008698   0.211430  -0.041   0.9674  
+y0         1.640410   0.676074   2.426   0.0209 *
+log_alpha -1.851639   0.988293  -1.874   0.0699 .
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.9331 on 33 degrees of freedom
+
+Number of iterations to convergence: 0 
+Achieved convergence tolerance: 3.43e-06
+
+[1] "Botrylloides violaceus"
+
+Formula: sample.reads ~ SSasymp(sample.time, yf, y0, log_alpha)
+
+Parameters:
+          Estimate Std. Error t value Pr(>|t|)    
+yf         -0.1935     0.8964  -0.216 0.830470    
+y0          3.3808     0.8254   4.096 0.000256 ***
+log_alpha  -3.5046     0.8664  -4.045 0.000296 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.331 on 33 degrees of freedom
+
+Number of iterations to convergence: 0 
+Achieved convergence tolerance: 2.049e-06
+
+[1] "Botryllus schlosseri"
+
+Formula: sample.reads ~ SSasymp(sample.time, yf, y0, log_alpha)
+
+Parameters:
+          Estimate Std. Error t value Pr(>|t|)  
+yf        -0.04695    0.24125  -0.195   0.8469  
+y0         0.41712    0.17083   2.442   0.0201 *
+log_alpha -3.79877    1.58535  -2.396   0.0224 *
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.5121 on 33 degrees of freedom
+
+Number of iterations to convergence: 0 
+Achieved convergence tolerance: 3.158e-06
+
+[1] "Halichondria panicea"
+
+Formula: sample.reads ~ SSasymp(sample.time, yf, y0, log_alpha)
+
+Parameters:
+          Estimate Std. Error t value Pr(>|t|)  
+yf         -0.2057     1.0566  -0.195   0.8468  
+y0          0.5873     0.2438   2.409   0.0217 *
+log_alpha  -4.6231     2.7197  -1.700   0.0986 .
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.8187 on 33 degrees of freedom
+
+Number of iterations to convergence: 0 
+Achieved convergence tolerance: 2.477e-06
+
+[1] "Ostrea"
+
+Formula: sample.reads ~ SSasymp(sample.time, yf, y0, log_alpha)
+
+Parameters:
+          Estimate Std. Error t value Pr(>|t|)    
+yf          -3.869      9.234  -0.419    0.678    
+y0         195.438     11.146  17.534   <2e-16 ***
+log_alpha   -3.134      0.186 -16.849   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 28.79 on 33 degrees of freedom
+
+Number of iterations to convergence: 0 
+Achieved convergence tolerance: 3.053e-07
+
+[1] "Ciona"
+
+Formula: sample.reads ~ SSasymp(sample.time, yf, y0, log_alpha)
+
+Parameters:
+          Estimate Std. Error t value Pr(>|t|)    
+yf         -0.9394     2.1265  -0.442    0.662    
+y0          9.6080     1.5203   6.320 3.77e-07 ***
+log_alpha  -3.7891     0.6175  -6.137 6.46e-07 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4.549 on 33 degrees of freedom
+
+Number of iterations to convergence: 0 
+Achieved convergence tolerance: 2.166e-06
+
+[1] "Diplosoma"
+
+Formula: sample.reads ~ SSasymp(sample.time, yf, y0, log_alpha)
+
+Parameters:
+          Estimate Std. Error t value Pr(>|t|)    
+yf         -0.1555     0.8603  -0.181    0.858    
+y0          6.5989     1.0600   6.226 4.98e-07 ***
+log_alpha  -3.1035     0.5177  -5.994 9.81e-07 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 2.715 on 33 degrees of freedom
+
+Number of iterations to convergence: 0 
+Achieved convergence tolerance: 2.807e-06
+
+[1] "Monocorophium"
+
+Formula: sample.reads ~ SSasymp(sample.time, yf, y0, log_alpha)
+
+Parameters:
+          Estimate Std. Error t value Pr(>|t|)    
+yf          0.3586     1.0330   0.347 0.730697    
+y0         11.9178     3.0375   3.924 0.000418 ***
+log_alpha  -1.9494     0.6651  -2.931 0.006092 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 4.452 on 33 degrees of freedom
+
+Number of iterations to convergence: 0 
+Achieved convergence tolerance: 9.701e-07
+

@@ -1,0 +1,240 @@
+[1] "Necora puber"
+
+Call:
+lm(formula = log(sample.reads + 0.5) ~ sample.time)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-0.3661 -0.3207 -0.2088  0.1431  1.2887 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)   
+(Intercept) -0.324426   0.111436  -2.911  0.00631 **
+sample.time -0.002666   0.001368  -1.948  0.05972 . 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.5029 on 34 degrees of freedom
+Multiple R-squared:  0.1004,	Adjusted R-squared:  0.07394 
+F-statistic: 3.794 on 1 and 34 DF,  p-value: 0.05972
+
+[1] "Asterias rubens"
+
+Call:
+lm(formula = log(sample.reads + 0.5) ~ sample.time)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-2.6010 -0.4706  0.3226  0.5628  2.6686 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  6.019947   0.246325   24.44  < 2e-16 ***
+sample.time -0.034758   0.003025  -11.49 2.96e-13 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.112 on 34 degrees of freedom
+Multiple R-squared:  0.7952,	Adjusted R-squared:  0.7892 
+F-statistic: 132.1 on 1 and 34 DF,  p-value: 2.956e-13
+
+[1] "Crepidula fornicata"
+
+Call:
+lm(formula = log(sample.reads + 0.5) ~ sample.time)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-1.52861 -0.53103  0.05878  0.55483  1.53610 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  0.868534   0.165898   5.235 8.50e-06 ***
+sample.time -0.011023   0.002037  -5.411 5.02e-06 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.7487 on 34 degrees of freedom
+Multiple R-squared:  0.4627,	Adjusted R-squared:  0.4469 
+F-statistic: 29.28 on 1 and 34 DF,  p-value: 5.02e-06
+
+[1] "Amphipholis squamata"
+
+Call:
+lm(formula = log(sample.reads + 0.5) ~ sample.time)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-1.3143 -0.6889 -0.1693  0.6316  1.4720 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  0.630782   0.184205   3.424 0.001625 ** 
+sample.time -0.009622   0.002262  -4.254 0.000156 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.8313 on 34 degrees of freedom
+Multiple R-squared:  0.3474,	Adjusted R-squared:  0.3282 
+F-statistic:  18.1 on 1 and 34 DF,  p-value: 0.0001555
+
+[1] "Styela clava"
+
+Call:
+lm(formula = log(sample.reads + 0.5) ~ sample.time)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.41121 -0.35614 -0.25895  0.03261  1.98669 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)  
+(Intercept) -0.278700   0.133942  -2.081   0.0451 *
+sample.time -0.003240   0.001645  -1.970   0.0571 .
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.6045 on 34 degrees of freedom
+Multiple R-squared:  0.1024,	Adjusted R-squared:  0.07602 
+F-statistic: 3.879 on 1 and 34 DF,  p-value: 0.05707
+
+[1] "Botrylloides violaceus"
+
+Call:
+lm(formula = log(sample.reads + 0.5) ~ sample.time)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-1.23933 -0.81712 -0.07078  0.53397  2.17658 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  0.574331   0.193470   2.969 0.005450 ** 
+sample.time -0.009383   0.002376  -3.949 0.000374 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.8731 on 34 degrees of freedom
+Multiple R-squared:  0.3145,	Adjusted R-squared:  0.2943 
+F-statistic:  15.6 on 1 and 34 DF,  p-value: 0.0003743
+
+[1] "Botryllus schlosseri"
+
+Call:
+lm(formula = log(sample.reads + 0.5) ~ sample.time)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.29174 -0.26282 -0.19288 -0.00358  1.32611 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept) -0.399302   0.100724  -3.964 0.000359 ***
+sample.time -0.002103   0.001237  -1.701 0.098147 .  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.4546 on 34 degrees of freedom
+Multiple R-squared:  0.07839,	Adjusted R-squared:  0.05129 
+F-statistic: 2.892 on 1 and 34 DF,  p-value: 0.09815
+
+[1] "Halichondria panicea"
+
+Call:
+lm(formula = log(sample.reads + 0.5) ~ sample.time)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-0.4047 -0.3665 -0.2410  0.1253  1.5884 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)  
+(Intercept) -0.285663   0.130104  -2.196   0.0350 *
+sample.time -0.002775   0.001598  -1.737   0.0914 .
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.5871 on 34 degrees of freedom
+Multiple R-squared:  0.08151,	Adjusted R-squared:  0.0545 
+F-statistic: 3.017 on 1 and 34 DF,  p-value: 0.09143
+
+[1] "Ostrea"
+
+Call:
+lm(formula = log(sample.reads + 0.5) ~ sample.time)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-3.0735 -1.0248  0.2862  0.7394  2.2877 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  4.631366   0.260990  17.745  < 2e-16 ***
+sample.time -0.031265   0.003205  -9.755 2.19e-11 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.178 on 34 degrees of freedom
+Multiple R-squared:  0.7368,	Adjusted R-squared:  0.729 
+F-statistic: 95.17 on 1 and 34 DF,  p-value: 2.191e-11
+
+[1] "Ciona"
+
+Call:
+lm(formula = log(sample.reads + 0.5) ~ sample.time)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-2.2566 -0.7692  0.3568  0.7668  1.6984 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1.579217   0.242274   6.518 1.84e-07 ***
+sample.time -0.015792   0.002975  -5.308 6.84e-06 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 1.093 on 34 degrees of freedom
+Multiple R-squared:  0.4532,	Adjusted R-squared:  0.4371 
+F-statistic: 28.18 on 1 and 34 DF,  p-value: 6.835e-06
+
+[1] "Diplosoma"
+
+Call:
+lm(formula = log(sample.reads + 0.5) ~ sample.time)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-1.6982 -0.8288 -0.1564  0.6844  1.5459 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1.04282    0.21498   4.851 2.68e-05 ***
+sample.time -0.01260    0.00264  -4.773 3.38e-05 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.9702 on 34 degrees of freedom
+Multiple R-squared:  0.4012,	Adjusted R-squared:  0.3836 
+F-statistic: 22.78 on 1 and 34 DF,  p-value: 3.377e-05
+
+[1] "Monocorophium"
+
+Call:
+lm(formula = log(sample.reads + 0.5) ~ sample.time)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-1.5868 -0.8507  0.0635  0.7853  2.2590 
+
+Coefficients:
+             Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  1.139077   0.219544   5.188 9.78e-06 ***
+sample.time -0.013633   0.002696  -5.057 1.45e-05 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.9908 on 34 degrees of freedom
+Multiple R-squared:  0.4293,	Adjusted R-squared:  0.4125 
+F-statistic: 25.57 on 1 and 34 DF,  p-value: 1.45e-05
+
