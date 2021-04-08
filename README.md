@@ -1,6 +1,6 @@
 # MTBdecay
 
-This repository accompanies the manuscript **How does eDNA decay affect metabarcoding experiments?** which is currently under review. Descriptions of scripts and folders can be found below. 
+This repository accompanies the publication **How does eDNA decay affect metabarcoding experiments?**. Descriptions of scripts and folders can be found below. 
 
 File Name | Description
 --- | ---
